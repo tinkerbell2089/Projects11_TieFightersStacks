@@ -1,0 +1,2 @@
+Hangar A contains Tie Fighters: 9975003 9928526 9457483 8131697 7900231 8308526
+Hangar B contains Tie Fighters:
